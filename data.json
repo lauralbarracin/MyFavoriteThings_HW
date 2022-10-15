@@ -1,0 +1,38 @@
+{"items": [ 
+    {
+        "hobbiesList": {
+            "name":"Workout",
+            "description":"I love working out and I love weightlifting. I need to move everyday, it is part of my ritual to feel good and release stress",
+            "image":"lau_gym.png",
+            "link":"instagram: laualbarracinm",
+            "id":"gym"
+        }
+    },
+    {
+        "hobbiesList": {
+            "name":"My Pet",
+            "description":"My little Beagle is 2 years old and his name is Baloo. He is a Colombian dog but he feels like a Canadian one, I think he is learning English",
+            "image":"Baloo.png",
+            "link":"instagram: baloobalu24",
+            "id":"baloo"
+        }
+    },
+    {
+        "hobbiesList": {
+            "name":"Nutrition",
+            "description":"Nutrition is important for me. I like to understand what kind of food I am eating, I prefer to avoid junk food or sometimes I enjoy cooking this junk food at home but in a healthy manner",
+            "image":"cooking.png",
+            "link":"instagram: laualbarracinm",
+            "id":"balance"
+        }
+    },
+    {
+        "hobbiesList": {
+            "name":"Trends",
+            "description":"That`s weird! but, I need to be honest, I like to study and understand market and marketing trends, it includes topics  such us: Fashion, Advertising, Technology, Communications, among others.",
+            "image":"comms.png",
+            "link":"Linkedin: laualbarracinm",
+            "id":"comms"
+        }
+    }
+]}

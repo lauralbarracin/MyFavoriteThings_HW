@@ -1,0 +1,13 @@
+
+
+    @import "./modules/_reset.scss";
+    @import "./modules/_vars.scss";
+    // thi is a perfectly valid SASS comment
+    @import "./modules/_main.scss";
+    @import "./modules/_footer.scss";
+    @import "./modules/_header.scss";
+    @import "./modules/_default.scss";// mobile styles (these load first) 
+    // responsive styles next 
+    @import "./modules/_queries.scss";
+    @import "./modules/lightbox.scss";
+    
