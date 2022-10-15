@@ -3,12 +3,12 @@
 
 Welcome to my Favorite Things
 
-This is just an App to show you four things I love in life. 
+This is just an App to show my four favorite things I love in life. 
 I hope you enjoy this project as much as I do
 
-Built with:
+#Built with:
 
-The project was developed for the practice of HTML, SASS, CSS, JS, DATA and AJAX (Json)
+The project was developed for the practice of HTML, SASS, CSS, JS, AJAX or (Json)
 
 #Dev Notes
 
