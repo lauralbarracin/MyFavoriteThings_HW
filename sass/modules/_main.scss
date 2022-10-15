@@ -1,0 +1,53 @@
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: rgba(215, 154, 212, 0);
+}
+
+.la-logo {align-items: center; padding-left: 2em;}
+
+main {background-color: rgb(0, 19, 15); padding: 10em;
+
+    h1 {color:rgb(36, 38, 39);}
+    margin: auto;
+    h2 {color:rgb(1, 58, 58);margin: 2em;background-color:#ffff;padding: 3em;}
+    h3 {color-scheme: rgb(1, 37, 49);}
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+
+
+    button {
+        width: 170px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+        color: #000;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-left: 30px;
+        margin-bottom: 30px;
+        margin-top: 1em;
+        cursor: pointer;
+        display: inline-block;
+      }
+      
+      button {
+        background-color: transparent;
+        border: 3px solid #00d7c3;
+        border-radius: 50px;
+        -webkit-transition: all .15s ease-in-out;
+        transition: all .15s ease-in-out;
+        color: #00d7c3;
+      }
+      button:hover {
+        box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 20px 2px #00d7c3;
+        border: 3px solid #00d7c3;
+      }
+
+}
+
+
+
+

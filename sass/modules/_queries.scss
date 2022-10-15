@@ -1,0 +1,100 @@
+@media screen and (min-width: 768px) {
+    .descText {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    }
+
+    .things-description {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .query-controls {
+            padding: 1em;
+            margin:1em;
+        }
+
+    main {
+        h2 {color:rgb(1, 58, 58);margin: 1em;background-color:#ffff;padding: 1em; display: grid; grid-template-columns: repeat(1,1fr);}
+    }
+}
+
+@media screen and (max-width: 760px) {
+
+    .la-logo {display: grid;grid-template-columns: repeat(1,1fr)}
+    .things-sect {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+
+    .descText {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+            
+    
+
+    .things-description {
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            padding: 1em;
+            margin:0.5em;
+        }
+
+    .query-controls {
+        
+            padding: 1em;
+            margin:0.7em;
+        }
+    
+            
+        main {background-color: rgb(0, 19, 15); padding: 0em;
+
+            h1 {color:rgb(36, 38, 39);}
+            margin: auto;
+            h2 {color:rgb(1, 58, 58);margin: 1em;background-color:#ffff;padding: 1em; display: grid; grid-template-columns: repeat(1,1fr);}
+            h3 {color-scheme: rgb(1, 37, 49);}
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            align-items: center;
+        
+            button {
+                width: 170px;
+                padding-top: 30px;
+                padding-bottom: 30px;
+                text-align: center;
+                color: #000;
+                text-transform: uppercase;
+                font-weight: 600;
+                margin-left: 30px;
+                margin-bottom: 30px;
+                margin-top: 1em;
+                cursor: pointer;
+                display: inline-block;
+              }
+              
+              button {
+                background-color: transparent;
+                border: 3px solid #00d7c3;
+                border-radius: 50px;
+                -webkit-transition: all .15s ease-in-out;
+                transition: all .15s ease-in-out;
+                color: #00d7c3;
+              }
+              button:hover {
+                box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 20px 2px #00d7c3;
+                border: 3px solid #00d7c3;
+              }
+        
+
+            img: {display: grid;
+            grid-template-columns: repeat(1,1fr);
+            padding: 0em;
+            margin: 0em;
+            
+        }
+            
+        
+        }
+        
+}

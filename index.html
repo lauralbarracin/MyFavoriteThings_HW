@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Laura Albarracin - Favorite Things</title>
+  </head>
+  <body>
+    <main class="main container">
+      <div class="la-logo">
+        <img class="logo" src="./images/logo_lauraa_black.png" alt="logo" />
+      </div>
+      <section>
+        <h2 class="descText">
+          Hi there! I am Laura Albarracin and I want to share some of my
+          favorite things in life
+        </h2>
+
+        <section class="things-sect"></section>
+        <!--this is linked with JS-->
+        <section class="query-controls"></section>
+        <!--this is linked with JS-->
+      </section>
+
+      <!--<section class="Lightbox"><img src=""" alt="thing image"></section>-->
+      <!--<h2>slug</h2>-->
+    </main>
+    <!-- Templates don't get rendered, but their content will be -->
+    <template id="things-template">
+      <section>
+        <div>
+          <img src="" alt="favorite things pics" />
+        </div>
+        <h2 class="favorites">My Favorite Things</h2>
+        <!-- <-- h2 child 1 -->
+        <article class="things-description">The article</article>
+        <article class="things-description">The article</article>
+      </section>
+    </template>
+
+    <script src="js/main.js" defer type="module"></script>
+  </body>
+</html>
