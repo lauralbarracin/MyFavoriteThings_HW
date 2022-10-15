@@ -12,7 +12,7 @@ The project was developed for the practice of HTML, SASS, CSS, JS, DATA and AJAX
 
 #Dev Notes
 
-Google Doc link:
+Google Doc link: https://docs.google.com/document/d/16P7UdtljT1IRTvfPMOCrRcV7Wjy3kT-vXrdhwEYC9i0/edit?usp=sharing
 
 #Authors
 
